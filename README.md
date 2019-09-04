@@ -1,9 +1,9 @@
 # Welcome to the Modak Reverse Polish Notation calculator
 
-To run this program on a local machine, git clone , navigate to the folder and
-type `ruby modak_rpn.rb`. If you are unfamiliar with RPN, it is a mathematic notation in
-which operators follow rather than precede their operands. This means, you can input two
-numbers and then decide what to do with them.
+To run this program on a local machine, git clone https://github.com/markevan100/RPN-calculator-Modak.git,
+navigate to the folder and type `ruby modak_rpn.rb`. If you are unfamiliar with RPN, it is a
+mathematic notation in which operators follow rather than precede their operands. This means,
+you can input two numbers and then decide what to do with them.
 
 This calculator can gracefully solve equations with +, -, \*, /, and \*\* (which will
 raise the first number to the power of the second number.) The calculator stores your input
